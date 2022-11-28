@@ -1,0 +1,14 @@
+{
+  "name": "mini-promise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/qiuye-zhou/mini-promise.git",
+  "author": "qiuye <1302580865@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "promises-aplus-tests src/test.js"
+  },
+  "devDependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  }
+}
